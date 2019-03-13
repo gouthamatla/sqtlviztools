@@ -44,7 +44,7 @@ Rscript prepare_example.R
 
 ```
 cd shiny/
-Rscript shiny/run_shiny.R
+Rscript run_shiny.R
 ```
 
 Please raise an issue on this github if you can't get the example app working.
